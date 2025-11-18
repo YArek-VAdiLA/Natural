@@ -1,0 +1,14 @@
+aiogram
+openai
+pydantic-settings
+sqlalchemy
+alembic==1.9.1
+redis>=5.0.0
+python-docx
+psycopg2
+python-dotenv
+amplitude-analytics
+asyncpg
+greenlet
+
+
